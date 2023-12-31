@@ -4,6 +4,8 @@ Pytorch implementation of Deep Recurrent (Double) Q-Learning. An overview is ava
 ## Comparison
 Here follows a comparison between the different method tested, showing that the DRDQN architecture gives the best results.
 
+The mean values are computed on a training of 200000 epochs for Space Invaders and 100000 for Q*Bert.
+
 ### Space Invaders
 
 |    | DQN  | DDQN | DRQN | DRDQN |
