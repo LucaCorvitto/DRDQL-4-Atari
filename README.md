@@ -7,13 +7,13 @@ Here follows a comparison between the different method tested, showing that the 
 ### Space Invaders
 
 |    | DQN  | DDQN | DRQN | DRDQN |
-| -- | --- |:-----:|:----:|:-----:|
+| -- | :--: |:-----:|:----:|:-----:|
 | GIF | ![alt text](https://github.com/LucaCorvitto/DRDQL-4-Atari/blob/main/gifs/DQN_SI.gif)| ![alt text](https://github.com/LucaCorvitto/DRDQL-4-Atari/blob/main/gifs/DDQN_SI.gif) | ![alt text](https://github.com/LucaCorvitto/DRDQL-4-Atari/blob/main/gifs/DRQN_SI.gif) | ![alt text](https://github.com/LucaCorvitto/DRDQL-4-Atari/blob/main/gifs/DRDQN_SI.gif) |
 | Mean Value | 82 | 135 | 298 | 358 |-->
 
 ### Q*Bert
 |    | DQN  | DDQN | DRQN | DRDQN |
-| -- | ---- |:----:|:----:|:-----:|
+| -- | :--: |:----:|:----:|:-----:|
 | GIF | ![alt text](https://github.com/LucaCorvitto/DRDQL-4-Atari/blob/main/gifs/DQN_QB.gif) | ![alt text](https://github.com/LucaCorvitto/DRDQL-4-Atari/blob/main/gifs/DDQN_QB.gif) | ![alt text](https://github.com/LucaCorvitto/DRDQL-4-Atari/blob/main/gifs/DRQN_QB.gif) | ![alt text](https://github.com/LucaCorvitto/DRDQL-4-Atari/blob/main/gifs/DRDQN_QB.gif) |
 | Mean Value | 121 | 285 | 253 | 312 |
 
